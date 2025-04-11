@@ -1,2 +1,16 @@
-# PrivacyPolicies
-Privacy policies for mobile apps developed by Avtandigital.
+# App Privacy Policies
+
+This repository contains the privacy policies for mobile applications developed and published by **Avtandigital**.
+
+Each app has its own folder or HTML file with a public GitHub Pages link to use for app store compliance.
+
+## 🔐 Available Policies
+
+
+
+## 📬 Contact
+
+For any questions, please contact us at avtukalaz@gmail.com.
+
+---
+© Avtandigital. All rights reserved.
