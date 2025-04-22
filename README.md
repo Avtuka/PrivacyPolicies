@@ -9,6 +9,9 @@ Each app has its own folder or HTML file with a public GitHub Pages link to use 
 - **Mafia Anchor**
   - [Privacy Policy (View)](https://avtuka.github.io/PrivacyPolicies/Mafia-Anchor/privacy-policy.html)
 
+- **Joker**
+  - [Privacy Policy (View)](https://avtuka.github.io/PrivacyPolicies/Joker/privacy-policy.html)
+
 ## 📬 Contact
 
 For any questions, please contact us at avtukalaz@gmail.com.
